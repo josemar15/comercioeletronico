@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <link href="css/estilocss.css" rel="stylesheet" type="text/css"/>
+        <title>Comercio Eletronico</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <header>
+            <section><h2>Juca&comercio</h2></section>
+        </header>
+        <nav>
+                <ul>
+                    <li><a href="#">A Empresa</a></li>
+                    <li><a href="#">Fale-conosco</a></li>
+                    <li><a href="#">Localização</a></li>
+                    <li><a href="#">Serviços</a></li>
+                    <li><a href="#">Anunciantes</a></li>
+                    <li><a href="#">Dicas</a></li>
+                </ul>
+        </nav>
+        <section class="slide">
+            <img src="img/2.png" alt=""/>
+            <article>juca</article>
+        </section>
+
+        <section>
+            <div>
+                <img src="img/element1.png" alt=""/>
+            </div>
+            <div>
+                <img src="img/element2.png" alt=""/>
+            </div>
+            <div>
+                <img src="img/element3.png" alt=""/>
+            </div>
+            <div>
+                <img src="img/img1.jpg" alt=""/>
+            </div>
+            <div>
+                <img src="img/img2.jpg" alt=""/>
+            </div>
+            <div>
+                <img src="img/img3.jpg" alt=""/>
+            </div>
+            <div>
+                <img src="img/img4.jpg" alt=""/>
+            </div>
+            <div>
+                <img src="img/img5.jpg" alt=""/>
+            </div>
+            <div>
+                <img src="img/img6.jpg" alt=""/>
+            </div>
+            <div>
+                <img src="img/img7.jpg" alt=""/>
+            </div>
+            </div>
+        </section>
+        <footer>rodape</footer>
+    </body>
+</html>
